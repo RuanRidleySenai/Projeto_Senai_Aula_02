@@ -1,0 +1,14 @@
+:root {
+     
+    --text-color-primary:#A54328;
+   
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    background-color: aliceblue;
+    display: flex;
+}
